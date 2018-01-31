@@ -1,0 +1,1 @@
+web: java -jar target/ck2calc-1.0.jar

@@ -10,6 +10,6 @@ public class WebController {
 
 	@RequestMapping("/")
 	public String test(){
-		return "test";
+		return "Crusader Kings II calculator coming soon.  Check out the <a href='https://github.com/cosmogama/ck2calc'>github</a> page for more information.";
 	}
 }
